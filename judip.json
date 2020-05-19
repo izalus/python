@@ -1,7 +1,0 @@
-{
-    "entry" : "./index.py",
-    "requirements" : "./requirements.txt",
-    "inputs" : {
-        "version" : "3"
-    }
-}

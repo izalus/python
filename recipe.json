@@ -1,0 +1,10 @@
+{
+  "name": "Python",
+  "entry": ["./index.py", "./requirements.txt"],
+  "inputs": {
+    "version": {
+      "2": "2.7.18-slim-buster",
+      "3": "3.8.3-slim-buster"
+    }
+  }
+}
